@@ -4,6 +4,7 @@
   "author": "Archriss",
   "license": "BSD-2-Clause",
   "repository": "https://github.com/archriss/react-native-render-html",
+  "homepage": "https://github.com/astrails/react-native-render-html",
   "description": "React Native component that renders HTML as native views",
   "keywords": [
     "react-native",
